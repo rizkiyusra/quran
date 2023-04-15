@@ -25,3 +25,4 @@ jobs:
           personal_token: ${{ secrets.ACCESS_TOKEN }}
           publish_dir: ./dist
           publish_branch: production
+          force_orphan: true
