@@ -48,7 +48,7 @@
 </template>
 
 <script>
-import Sidebar from "./components/Sidebar.vue"
+import Sidebar from "../components/Sidebar.vue"
 import axios from "axios"
 
 export default {
@@ -126,7 +126,6 @@ export default {
       .get(audioUrl + params)
       .then(response => {
         this.audioDetail = response.data.audio_files
-        console.log(response.data.audio_files)
       })
       .catch(error => {
         console.log(error)

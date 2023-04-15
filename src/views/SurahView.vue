@@ -16,7 +16,7 @@
     <div class="row row-cols-1 row-cols-sm-2 row-cols-lg-3 gx-5 gx-md-3 justify-content-between">
       <RouterLink
           v-for="data in surah"
-          :to="{ name: 'surah-single', params: { id: data.id }}"
+          :to="{ name: 'surah-single', params: { id: data.id }, query: { name_simple: data.name_simple } }"
           class="col-md-4 mt-3 mt-lg-4 text-decoration-none">
         <div class="card effect bg-light">
           <div class="card-body">

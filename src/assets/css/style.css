@@ -1,0 +1,74 @@
+:root {
+    --first-color: #e4d4b4;
+    --second-color: #293830;
+    --third-color: #975b3b;
+    --fourth-color: #ed9416;
+    --fifth-color: #f4f4eb;
+    --sixth-color: #c98a6b;
+    --seventh-color: #97a595;
+    --eighth-color: #9b9087;
+    --nineth-color: #698c7f;
+}
+
+.font {
+    font-family: 'Poppins', sans-serif;
+}
+
+.btn-first {
+    color: #fff;
+    background-color: var(--sixth-color);
+    transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out, border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+    border-color: var(--fifth-color);
+}
+.btn-first:hover {
+    color: #fff;
+    background-color: var(--third-color);
+    border-color: var(--fifth-color);
+}
+
+.text-gradient {
+    background: -webkit-linear-gradient(var(--first-color), var(--nineth-color));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.icon-feature {
+    font-size: 4rem;
+}
+
+.heading-line2 {
+    border-bottom: 5px solid var(--nineth-color) !important;
+    border-radius: 15px;
+    width: 15%;
+    margin: 15px auto auto;
+}
+
+section.cta {
+    position: relative;
+    padding: 15rem 0;
+    background-position: center;
+    background-size: cover;
+}
+section.cta .cta-content {
+    position: relative;
+    z-index: 1;
+}
+section.cta:before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.2);
+}
+
+.effect {
+    transition: 0.2s;
+}
+
+.effect:hover {
+    border: 0.01px solid #a29d9d;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.01), 0 6px 20px 0 rgba(0, 0, 0, 0.09);
+    transform: translateY(-4px);
+}
