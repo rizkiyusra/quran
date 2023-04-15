@@ -82,10 +82,10 @@ router.beforeEach((to,from, next) => {
     document.title = metaTitle
   }
   else if (to.meta.props) {
-    document.title = metaTitle + to.meta.props + " - " + DEFAULT_TITLE
+    document.title = DEFAULT_TITLE + " - " + metaTitle + to.meta.props
   }
   else if(metaTitle){
-    document.title = metaTitle + " - " + DEFAULT_TITLE
+    document.title = DEFAULT_TITLE + " - " + metaTitle
   }
   else{
     document.title = DEFAULT_TITLE;
