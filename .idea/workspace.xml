@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="d6f78be4-cc18-4fb7-8206-af28afd99c13" name="Changes" comment="Qur'an">
       <change afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
@@ -162,7 +163,7 @@
       <workItem from="1679237872586" duration="460000" />
       <workItem from="1680181325374" duration="17000" />
       <workItem from="1681108293212" duration="6420000" />
-      <workItem from="1681537127473" duration="1526000" />
+      <workItem from="1681537127473" duration="1855000" />
     </task>
     <task id="LOCAL-00001" summary="Qur'an">
       <created>1674927877242</created>
