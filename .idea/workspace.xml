@@ -5,50 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d6f78be4-cc18-4fb7-8206-af28afd99c13" name="Changes" comment="Qur'an">
-      <change afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.github/workflows/main.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/quran.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/_redirects" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/404-68889c5b.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/bootstrap-icons-966620f9.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/bootstrap-icons-c6569d46.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/icon-nobg-81ef6b5e.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/index-90046767.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/assets/index-e54def78.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/404.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/Illustration of the read quran.eps" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/icon-nobg.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/icon.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/mobile-life.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/quran.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/quran2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/quran3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/quran3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/quran3.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/read-quran.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/read-quran.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/img/read-quran1.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/.vite/deps/_metadata.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/node_modules/vite/bin/vite.js" beforeDir="false" afterPath="$PROJECT_DIR$/node_modules/vite/bin/vite.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/InfoSurah.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/InfoSurah.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/JuzView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/JuzView.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/SingleJuzView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/SingleJuzView.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/SingleSurahView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/SingleSurahView.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/SurahView.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/views/SurahView.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/components/Footer.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Footer.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/components/Navbar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Navbar.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/views/components/Sidebar.vue" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Sidebar.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -163,7 +120,7 @@
       <workItem from="1679237872586" duration="460000" />
       <workItem from="1680181325374" duration="17000" />
       <workItem from="1681108293212" duration="6420000" />
-      <workItem from="1681537127473" duration="1855000" />
+      <workItem from="1681537127473" duration="2246000" />
     </task>
     <task id="LOCAL-00001" summary="Qur'an">
       <created>1674927877242</created>
